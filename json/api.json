@@ -1,0 +1,62 @@
+[
+    {
+      "precio": 3000,
+      "id": 1,
+      "title": "Anillo Montblank Cu",
+      "img": "./img/a2.jpg"
+    },
+    {
+      "precio": 3500,
+      "id": 2,
+      "title": "Pulsera Montblank Au",
+      "img": "./img/a3.jpg"
+    },
+    {
+      "precio": 4000,
+      "id": 3,
+      "title": "Pulsera Montblank Pl",
+      "img": "./img/a4.jpg" 
+    },
+    {
+      "precio": 5000,
+      "id": 4,
+      "title": "Anillo Montblank Cu",
+      "img": "./img/a5.jpg"
+    },
+    {
+      "precio": 3000,
+      "id": 5,
+      "title": "Anillo Montblank Au",
+      "img": "./img/a6.jpg"
+    },
+    {
+      "precio": 4550,
+      "id": 6,
+      "title": "Anillo Montblank Cu",
+      "img": "./img/a7.jpg"
+    },
+    {
+        "precio": 6000,
+        "id": 7,
+        "title": "Anillo Montblank Cu",
+        "img": "./img/a8.jpg"
+    },
+    {
+        "precio": 4500,
+        "id": 8,
+        "title": "Anillo Montblank Cu",
+        "img": "./img/a9.jpg"
+    },
+    {
+        "precio": 3500,
+        "id": 9,
+        "title": "Pulsera Montblank Au",
+        "img": "./img/p4.jpg"
+    },
+    {
+        "precio": 4000,
+        "id": 10,
+        "title": "Pulsera Montblank Au",
+        "img": "./img/p1.jpg"
+    }
+  ]
